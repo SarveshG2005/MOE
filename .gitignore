@@ -1,0 +1,16 @@
+# Generated model artifacts
+*.bin
+*.safetensors
+*.pt
+*.pth
+checkpoints/
+router/final/
+
+# Python and local state
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated results
+results/
